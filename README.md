@@ -118,9 +118,3 @@ This project reflects **real-world SQL usage**, covering:
 - Business-driven query writing
 - Pattern searching
 - Analytical thinking
-
-It is well-suited for **SQL Developer, Data Analyst, and Entry-Level IT roles**.
-
-
-## 📌 About
-This project is part of my **SQL portfolio**, showcasing practical database handling and analytical query skills.
