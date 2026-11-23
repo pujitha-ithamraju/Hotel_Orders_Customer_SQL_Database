@@ -107,10 +107,3 @@ Stores registered customer information.
 - Data Analysis & Query Optimization
 
 
-
-## Why this project matters
-This project reflects **real-world SQL usage**, covering:
-- Data modeling
-- Business-driven query writing
-- Pattern searching
-- Analytical thinking
