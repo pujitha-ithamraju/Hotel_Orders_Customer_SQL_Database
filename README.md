@@ -107,10 +107,6 @@ Stores registered customer information.
 - Data Analysis & Query Optimization
 
 
-## Files Included
-- `Hotels_Orders_Registrations_SQL.sql`  
-  (Includes table creation, data insertion, and all analytical queries)
-
 
 ## Why this project matters
 This project reflects **real-world SQL usage**, covering:
